@@ -1,0 +1,39 @@
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  
+    
+}
+.lable{
+    padding-top: 20px;
+   font-weight: bold
+   
+}
+.input{
+   height: 3em;
+    width: 40%;
+   background-color: aqua
+    
+}.button{
+    width:5em;
+    height: 3em;
+    background-color: pink
+}
+
+.div{
+    padding: 20px;
+}
+h2{
+    padding-left: 20px;
+    text-align: center;
+    font-size: 3em;
+
+}
+body{
+    background-image: url("http://i.123g.us/c/thank_everyday/card/310039.png");
+    background-position: 550px 180px;
+background-size:50%;
+background-repeat: no-repeat;
+background-color: darkmagenta
+}
