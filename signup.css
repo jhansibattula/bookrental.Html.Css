@@ -1,4 +1,4 @@
-form{
+.form{
     display: flex;
     flex-direction: column;
     padding: 20px;
@@ -7,7 +7,7 @@ form{
 }
 .lable{
     padding-top: 20px;
-   font-weight: bold
+    font-weight: bold
    
 }
 .input{
@@ -24,16 +24,18 @@ form{
 .div{
     padding: 20px;
 }
-h2{
+h3{
     padding-left: 20px;
     text-align: center;
     font-size: 3em;
 
 }
 body{
-    background-image: url("https://i.ytimg.com/vi/d_6gZJRtPL4/maxresdefault.jpg");
-    background-position: 550px 180px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjau9eqpYhACKivPHq2xcq6t946UjHIh3MOzwTkaSyrwCvovlLiQ");
+    background-position: 550px 100px;
 background-size:50%;
 background-repeat: no-repeat;
-background-color: darkmagenta
+background-color: darkseagreen;
+border: 2px solid black;
+border-radius: 20px;
 }

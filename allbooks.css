@@ -1,0 +1,49 @@
+img{
+    display: flex;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    padding-left: 30px;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    
+}
+h4{
+    display: inline;
+    padding: 15px;
+    background-color:rebeccapurple;
+    color: aliceblue
+}
+.info{
+    padding: 50px;
+    padding-left: 200px;
+  
+}
+.selection{
+    display: flex;
+    flex-direction: column;}
+
+
+
+
+ .head{
+     text-align: center;
+     background-color: brown;
+     padding: 25px;
+     
+ }   
+ div.head{
+     font-size: 30px;
+     text-align: center;
+     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNuaN6yEs5Ri2TI21E9eP5wMPMHvwSfd9DClQ1fyDuL10tKhh6eA") ; 
+     background-repeat: no-repeat;
+     background-position: right;
+    }
+  body{
+      background-color:pink
+  }
+  
+   
+ 

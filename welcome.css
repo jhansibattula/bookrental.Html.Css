@@ -1,0 +1,136 @@
+ul{
+    list-style-type: none;
+    padding: 10px;
+    margin: 0%;
+    border: 0%;
+    background-color: black;
+    color: aliceblue
+    
+    
+}
+
+   li a{
+      padding: 10px;
+       color: aliceblue
+   }
+
+h2{
+    font-family: "greate vibes";
+   text-align: center;
+   font-size: 3em;
+   color: rgb(24, 13, 90);
+  
+}
+li{
+    display: inline
+    
+}
+.second{
+    widows: 25px;
+}
+.win{
+  width: 300px
+}
+.polity{
+   widows: 300px;
+   height: 350px;
+}
+.ntpc{
+    height: 350px;
+}
+h3{
+    padding: 20px;
+}
+.active
+{
+    
+       background-color:brown
+       
+    
+}
+a:hover{
+background-color: dimgray;
+}
+a:focus{
+    background-color: darkseagreen
+}
+div{
+    display: flex;
+   flex-direction: row
+}
+.see{
+    float: right;
+    padding: 10px;
+    background-color: chocolate;
+}
+.searcah{
+    display: flex;
+   flex-direction: row;
+   width: 30%;
+   height: 50px;
+   float: right;
+  
+}
+
+.imgsearach{
+    width: 20%;
+    height: 30px;
+    size: 650px 0px;
+}
+.inpaut{
+    width:80%;
+    height: 20px;
+}
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80.5%;
+    position:150px 150px;
+    background: #f1f1f1;
+}
+
+form.example button {
+    float: right;
+    width: 15%;
+    height: 2em;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 21px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS02l4NLXiV8Ud2iGjHaYKDzOi24KaH9ScKpCq5TQ-O9LKm-Ra1cw") ;
+    background-repeat: no-repeat;
+    background-size: 72px 52px;
+    background-color: #2196F3;
+    background-position: center;
+    
+
+  }
+  
+  form{
+    width: 40%;
+    padding: 20px;
+    float: right;
+    
+  }
+  body{
+      background-color: cadetblue;
+      border: 2px solid black;
+      border-radius: 0.50%
+  }
+ .row4{
+     width: 300px;
+     height: 300px;
+ }
+ img{
+     display: inline;
+     
+
+ }
+ .imglink:hover{
+     background-color: antiquewhite
+ }
